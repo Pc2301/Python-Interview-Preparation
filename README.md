@@ -1,3 +1,4 @@
-# Python-Basics
+# Complete Python 
 
-The repository contains import python functions and commands for beginners in python. 
+# Table of Contents
+- [Introduction](#introduction)
