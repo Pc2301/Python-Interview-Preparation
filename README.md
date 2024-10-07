@@ -1,4 +1,4 @@
-# Complete Python 
+## Complete Python 
 
-# Table of Contents
+##Table of Contents
 - [Introduction](#introduction)
